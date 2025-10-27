@@ -3,7 +3,7 @@
 **Computer Science Student | Aspiring AI/ML Engineer | Full-Stack Developer**
 
 ## 🚀 About Me
-- Second-year Computer Science student at Multimedia University of Kenya
+- Computer Science student at Multimedia University of Kenya
 - Currently mastering full-stack development with MERN stack
 - Long-term goal: AI/ML Engineering and Data Science
 - Passionate about using technology for social impact 
